@@ -1,0 +1,62 @@
+body
+{
+background-image:url("P3-Tartarus.jpeg"); 
+background-repeat:no-repeat;
+background-size:cover;       
+}
+
+
+h1
+
+{
+color:white;
+font-size:40px;
+font-family:arial;
+text-align:center;
+font-style:italic;
+text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8), 
+1px -1px 3px rgba(0, 0, 0, 0.8);    
+}
+
+h2
+{
+color:white;
+font-family:arial;        
+text-align:justify;        
+font-size:30px;
+font-style:italic;
+text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8), 
+1px -1px 3px rgba(0, 0, 0, 0.8);    
+}
+
+ p 
+{
+font-family:arial;    
+color: #ffffff; /* Branco puro */
+font-size: 1.2rem;
+line-height: 1.6;
+margin: 0;
+/* Sombra projetada para separar o texto do fundo verde */
+text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8), 
+1px -1px 3px rgba(0, 0, 0, 0.8);
+    text-align:justify;
+        }
+
+.figura
+{
+width:250px;
+height:180px;
+border-radius:4%;    
+}
+.boxed
+{
+    
+display:inline-block;
+border:2px solid gray;
+max-width:800px;
+padding:80px 250px;
+border-radius:20px;
+margin:1px auto;
+background-color:rgba(0,0,0,0.4);
+line-height:1.5;    
+}
